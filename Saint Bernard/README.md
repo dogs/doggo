@@ -11,4 +11,6 @@ Temperament: Friendly, Lively, Gentle, Watchful, Calm
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/_Qf9nfRzL.png)
+
 [source](https://api.thedogapi.com/v1/breeds/212)

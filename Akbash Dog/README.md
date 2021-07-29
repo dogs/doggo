@@ -11,4 +11,6 @@ Temperament: Loyal, Independent, Intelligent, Brave
 
 Origin: 
 
+![image](https://cdn2.thedogapi.com/images/26pHT3Qk7.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/5)

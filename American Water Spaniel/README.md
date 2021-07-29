@@ -11,4 +11,6 @@ Temperament: Friendly, Energetic, Obedient, Intelligent, Protective, Trainable
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/SkmRJl9VQ_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/17)

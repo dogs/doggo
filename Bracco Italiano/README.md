@@ -11,4 +11,6 @@ Temperament: Stubborn, Affectionate, Loyal, Playful, Companionable, Trainable
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/S13yZg5VQ_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/57)

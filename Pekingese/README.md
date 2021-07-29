@@ -11,4 +11,6 @@ Temperament: Opinionated, Good-natured, Stubborn, Affectionate, Aggressive, Inte
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/ByIiml9Nm_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/183)

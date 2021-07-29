@@ -11,4 +11,6 @@ Temperament: Trainable, Good-natured, Devoted, Lively, Playful, Intelligent
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/tmzeu6ID_.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/239)

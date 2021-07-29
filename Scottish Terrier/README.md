@@ -11,4 +11,6 @@ Temperament: Feisty, Alert, Independent, Playful, Quick, Self-assured
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/Bklnce5NX_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/219)

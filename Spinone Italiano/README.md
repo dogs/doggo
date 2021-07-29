@@ -11,4 +11,6 @@ Temperament: Docile, Friendly, Affectionate, Loyal, Patient, Gentle
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/rk5Eoe5Nm_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/236)

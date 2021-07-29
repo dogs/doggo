@@ -11,4 +11,6 @@ Temperament: Outgoing, Sociable, Trusting, Joyful, Even Tempered, Merry
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/HkRcZe547_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/87)

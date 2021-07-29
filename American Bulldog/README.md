@@ -11,4 +11,6 @@ Temperament: Friendly, Assertive, Energetic, Loyal, Gentle, Confident, Dominant
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/pk1AAdloG.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/10)

@@ -11,4 +11,6 @@ Temperament: Kind, Energetic, Independent, Adaptable, Intelligent, Bossy
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/H1QyMe5EQ_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/102)

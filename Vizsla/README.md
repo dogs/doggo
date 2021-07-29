@@ -11,4 +11,6 @@ Temperament: Affectionate, Energetic, Loyal, Gentle, Quiet
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/r1o0jx9Em_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/251)

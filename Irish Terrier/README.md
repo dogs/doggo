@@ -11,4 +11,6 @@ Temperament: Respectful, Lively, Intelligent, Dominant, Protective, Trainable
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/By-hGecVX_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/135)

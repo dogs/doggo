@@ -11,4 +11,6 @@ Temperament: Affectionate, Energetic, Independent, Companionable, Familial, Unfl
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/HJMzEl5N7_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/208)

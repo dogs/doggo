@@ -11,4 +11,6 @@ Temperament: Spirited, Lively, Intelligent, Loving, Even Tempered, Familial
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/B1u4zgqE7_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/114)

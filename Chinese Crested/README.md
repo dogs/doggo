@@ -11,4 +11,6 @@ Temperament: Affectionate, Sweet-Tempered, Lively, Alert, Playful, Happy
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/B1pDZx9Nm_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/78)

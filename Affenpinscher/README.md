@@ -11,4 +11,6 @@ Temperament: Stubborn, Curious, Playful, Adventurous, Active, Fun-loving
 
 Origin: Germany, France
 
+![image](https://cdn2.thedogapi.com/images/BJa4kxc4X_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/1)

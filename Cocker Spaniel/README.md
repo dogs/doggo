@@ -11,4 +11,6 @@ Temperament: Trainable, Friendly, Affectionate, Playful, Quiet, Faithful
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/1lFmrzECl.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/86)

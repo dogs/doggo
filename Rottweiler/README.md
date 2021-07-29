@@ -11,4 +11,6 @@ Temperament: Steady, Good-natured, Fearless, Devoted, Alert, Obedient, Confident
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/r1xXEgcNX_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/210)

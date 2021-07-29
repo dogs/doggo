@@ -11,4 +11,6 @@ Temperament: Cheerful, Alert, Companionable, Intelligent, Protective, Calm
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/HkNS3gqEm_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/262)

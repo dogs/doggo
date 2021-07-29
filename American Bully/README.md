@@ -11,4 +11,6 @@ Temperament: Strong Willed, Stubborn, Friendly, Clownish, Affectionate, Loyal, O
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/sqQJDtbpY.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/11)

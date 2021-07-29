@@ -11,4 +11,6 @@ Temperament: Trainable, Protective, Sweet-Tempered, Keen, Active, Territorial
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/BkKZWlcVX_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/62)

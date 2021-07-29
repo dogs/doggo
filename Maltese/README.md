@@ -11,4 +11,6 @@ Temperament: Playful, Docile, Fearless, Affectionate, Sweet-Tempered, Lively, Re
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/B1SV7gqN7_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/161)

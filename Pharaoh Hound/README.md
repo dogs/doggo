@@ -11,4 +11,6 @@ Temperament: Affectionate, Sociable, Playful, Intelligent, Active, Trainable
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/Byz6mgqEQ_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/188)

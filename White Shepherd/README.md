@@ -11,4 +11,6 @@ Temperament: Self-confidence, Aloof, Fearless, Alert, Companionable, Eager
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/r14M3e9E7_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/258)

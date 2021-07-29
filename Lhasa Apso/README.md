@@ -11,4 +11,6 @@ Temperament: Steady, Fearless, Friendly, Devoted, Assertive, Spirited, Energetic
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/SJp7Qe5EX_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/156)

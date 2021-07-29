@@ -11,4 +11,6 @@ Temperament: Stubborn, Alert, Companionable, Intelligent, Cunning, Trainable
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/SJ6eMxqEQ_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/105)

@@ -11,4 +11,6 @@ Temperament: Watchful, Alert, Stubborn, Friendly, Confident, Hard-working, Activ
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/r1f_ll5VX_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/36)

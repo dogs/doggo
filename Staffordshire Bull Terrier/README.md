@@ -11,4 +11,6 @@ Temperament: Reliable, Fearless, Bold, Affectionate, Loyal, Intelligent, Courage
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/H1zSie9V7_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/238)

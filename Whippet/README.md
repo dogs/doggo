@@ -11,4 +11,6 @@ Temperament: Friendly, Affectionate, Lively, Gentle, Intelligent, Quiet
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/Hyv-ne94m_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/257)

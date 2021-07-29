@@ -11,4 +11,6 @@ Temperament: Benevolent, Agile, Alert, Intelligent, Active, Territorial
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/kOMy84GQE.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/145)

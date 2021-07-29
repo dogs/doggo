@@ -11,4 +11,6 @@ Temperament: Agile, Obedient, Playful, Quick, Sturdy, Bright
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/S1GAGg9Vm_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/142)

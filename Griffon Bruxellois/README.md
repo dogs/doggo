@@ -11,4 +11,6 @@ Temperament: Self-important, Inquisitive, Alert, Companionable, Sensitive, Watch
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/ryoYGec4Q_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/128)

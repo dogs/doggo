@@ -11,4 +11,6 @@ Temperament: Self-confidence, Fearless, Spirited, Companionable, Happy, Lovable
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/B1ADQg94X_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/172)

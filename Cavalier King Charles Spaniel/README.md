@@ -11,4 +11,6 @@ Temperament: Fearless, Affectionate, Sociable, Patient, Playful, Adaptable
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/HJRBbe94Q_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/71)

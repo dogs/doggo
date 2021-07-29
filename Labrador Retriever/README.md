@@ -11,4 +11,6 @@ Temperament: Kind, Outgoing, Agile, Gentle, Intelligent, Trusting, Even Tempered
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/B1uW7l5VX_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/149)

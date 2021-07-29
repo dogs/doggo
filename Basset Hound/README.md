@@ -11,4 +11,6 @@ Temperament: Tenacious, Friendly, Affectionate, Devoted, Sweet-Tempered, Gentle
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/Sy57xx9EX_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/30)

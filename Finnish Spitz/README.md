@@ -11,4 +11,6 @@ Temperament: Playful, Loyal, Independent, Intelligent, Happy, Vocal
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/3PjHlQbkV.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/111)

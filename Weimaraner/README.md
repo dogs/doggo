@@ -11,4 +11,6 @@ Temperament: Steady, Aloof, Stubborn, Energetic, Alert, Intelligent, Powerful, F
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/SyU12l9V7_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/253)

@@ -11,4 +11,6 @@ Temperament: Affectionate, Devoted, Alert, Companionable, Intelligent, Active
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/SyXN-e9NX_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/68)

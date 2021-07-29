@@ -11,4 +11,6 @@ Temperament: Affectionate, Energetic, Alert, Curious, Playful, Intelligent
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/H1dGlxqNQ_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/28)

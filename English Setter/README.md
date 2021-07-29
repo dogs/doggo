@@ -11,4 +11,6 @@ Temperament: Strong Willed, Mischievous, Affectionate, Energetic, Playful, Compa
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/By4A-eqVX_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/101)

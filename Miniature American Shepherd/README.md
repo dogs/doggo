@@ -11,4 +11,6 @@ Temperament: Energetic, Loyal, Intelligent, Trainable
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/BkHHQgcN7_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/165)

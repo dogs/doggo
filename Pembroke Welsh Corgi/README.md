@@ -11,4 +11,6 @@ Temperament: Tenacious, Outgoing, Friendly, Bold, Playful, Protective
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/rJ6iQeqEm_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/184)

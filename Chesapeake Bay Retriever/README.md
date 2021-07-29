@@ -11,4 +11,6 @@ Temperament: Affectionate, Intelligent, Quiet, Dominant, Happy, Protective
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/9BXwUeCc2.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/76)

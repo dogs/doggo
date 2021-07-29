@@ -11,4 +11,6 @@ Temperament: Affectionate, Cheerful, Alert, Intelligent, Attentive, Active
 
 Origin: not found
 
+![image](https://cdn2.thedogapi.com/images/Hk0Jfe5VQ_1280.jpg)
+
 [source](https://api.thedogapi.com/v1/breeds/103)

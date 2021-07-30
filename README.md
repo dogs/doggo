@@ -22,3 +22,6 @@ if you know a kind of doggo that you do not see here, create a pull request or i
 
 # mop doggo
 ![image](https://upload.wikimedia.org/wikipedia/commons/3/3d/Komondor_Westminster_Dog_Show_crop.jpg)
+
+# and samoyed.
+![image](https://k9gentledental.ca/wp-content/uploads/2018/12/Samoyed-1-e1534278656230.jpg)

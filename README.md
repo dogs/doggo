@@ -19,3 +19,6 @@ if you know a kind of doggo that you do not see here, create a pull request or i
 
 # smiling doggo
 ![image](https://user-images.githubusercontent.com/83192247/127578929-6149b7d2-410f-4843-aad4-c7b213fcc018.png)
+
+# mop doggo
+![image](https://upload.wikimedia.org/wikipedia/commons/3/3d/Komondor_Westminster_Dog_Show_crop.jpg)

@@ -1,1 +1,1 @@
-dogs > cats
+cats > dogs
